@@ -1,5 +1,7 @@
 import { Router } from "express";
 
-export const routes = Router()
+const routes = Router()
 
 routes.use()
+
+export { routes }
